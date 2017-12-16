@@ -26,10 +26,10 @@ Research Questions to Answer:
 Data Sets:
 
 	1.	IMDB
-	2.	Spotify
+	2.	Youtube API
 
 Rough Breakdown of Tasks:
 
-	1.	Obtain winner information from last 3 years.
-	2.	Collect Spotify data and identify patterns on winners
+	1.	Obtain winner information from last 10 years.
+	2.	Collect Youtube viewCount, likeCount, data conduct VADER sentiment analysis on comment threads and identify 		    any patterns or trends on winners
 	3.	Apply trends to current nominees and identify the potential winners
